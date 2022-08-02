@@ -1,0 +1,11 @@
+{
+  "name": "aihk",
+  "version": "1.0.0",
+  "description": "AIHK contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "eightrice",
+  "license": "ISC"
+}
